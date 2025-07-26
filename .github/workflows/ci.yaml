@@ -2,7 +2,7 @@ name: CI
 
 on: push
 
-job: 
+jobs: 
   linting: 
     runs-on: ubuntu-latest
 
