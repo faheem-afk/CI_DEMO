@@ -29,6 +29,10 @@ def root2(a):
     return a**1/2
 
 
+def root4(a):
+    return a**1/2
+
+
 result1 = add(4, 5)
 result2 = sub(4, 1)
 print(result1, result2)
